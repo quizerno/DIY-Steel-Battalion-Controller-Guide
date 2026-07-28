@@ -1,1 +1,72 @@
 # 5. Playing on Emulator.md
+
+
+Playing on Emulator
+Xemu
+http://youtube.com/watch?v=clwK9Pdt7o8
+Xemu is an open source emulator for the original Xbox. It requires an Xbox BIOS files and system files to run.
+ Development of the main Xemu has been slow, it lacks basic features and cohesion. However since it is open source, people have taken it upon themselves to build it to their needs. Xemu originally used OpenGL for graphics, but now also can be built with Vulkan
+
+Steel Battalion Dedicated Forks of Xemu
+
+SpecialFred’s Vanilla Fork
+A fork of Xemu created by SpecialFred allows inputs for the Steel Battalion controller via keyboard or using the original controller.
+
+Xemu	Fork Name:	Game:	Notes:
+Xemu with Vulkan Graphics (VK)	Usb_passthrough_vk	Can run original Steel Battalion	Uses SDL3 for controls bindings
+
+
+Xemu with OpenGL Graphics (non-vulkan)	Usb_passthrough	Can run Steel Battalion: Line of Contact	Uses SDL2 for control bindings
+
+Input menu will display passthrough controller inputs
+
+In an attempt to streamline these two versions. I have 
+xemu/config_spec.yml at usb_passthrough_vk · faha223/xemu · GitHub
+
+I have included it in the file package along with instructions on how to rebind the controls as needed
+
+
+Quizern’s Fork of SpecialFred’s Fork
+I took it upon myself to make a build of Xemu based on Fred’s. It adds several features not included in regular builds of Xemu
+-The option to turn off the hotkeys.
+-The option to permanently turn off the mouse cursor
+-Turning off the fullscreen toggle when double clicking with the Left Mouse Button
+-Moving the Settings Menu Hotkey to Backslash (Emergency in case both the Menu Bar and Hotkeys are disabled, so the user does not have to reset Xemu settings manually)
+I have included it in the file package.
+
+FluffyStuff’s Fork
+There is another Fork by FluffStuff that uses an older version of Xemu but allows joystick inputs. I have included it in the file package.
+
+Building Xemu Yourself
+If you are knowledgeable on C++ or have coding experience, you can clone either the main branch of xemu or the USB Pass-Through, edit the files and build Xemu yourself
+Building Xemu https://xemu.app/docs/dev/building-from-source/#__tabbed_1_2
+
+https://forums.launchbox-app.com/topic/59105-tutorial-xemu-configuration/
+
+apt-get update && apt-get install curl
+
+# Clone and build
+git clone https://github.com/xemu-project/xemu
+docker run --rm -v $PWD/xemu:/xemu -w /xemu \
+    -e CCACHE_DIR=/xemu/ccache \
+    ghcr.io/xemu-project/xemu-win64-toolchain:latest \
+    ./build.sh -p win64-cross
+# Run
+./xemu/dist/xemu.exe
+
+docker run --rm -v $PWD/usbpass:/usbpass -w /usbpass \
+    -e CCACHE_DIR=/usbpass/ccache \
+    ghcr.io/xemu-project/xemu-win64-toolchain:latest \
+    ./build.sh -p win64-cross
+
+
+
+
+Cxbx-Reloaded
+https://www.youtube.com/watch?v=hatA9M7ftlE&t=300s
+Cxbx reloaded is a stand alone emulator that does not require a dumped BIOS to run. 
+Cxbx has many more options in regards to controls and Steel Battalion is technically playable, but it also has sound and performance issues. Further development is needed.
+https://cxbx-reloaded.co.uk/
+https://www.youtube.com/watch?v=YYqngubf_co
+https://www.youtube.com/watch?v=JYqUdGF6bBc
+https://www.youtube.com/watch?v=hatA9M7ftlE
