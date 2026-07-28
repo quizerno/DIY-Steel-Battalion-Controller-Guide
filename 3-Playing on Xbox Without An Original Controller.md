@@ -1,1 +1,105 @@
 # 3. Playing on Xbox Without An Original Controller
+
+You can either map a Keyboard, an existing controller like a HOTAS joystick or build one from scratch.
+Either way you will need:
+Your Custom Controller With USB Cable 
+A Teensy 4.0 with USB Host Cable (Female USB A)
+Micro USB Cable
+USB-Female to Xbox Cable
+A computer
+This software: ogx360_t4
+ogx360_t4
+Ogx360_t4 by Ryzee19 is an open source software package for Teensy 4.0 boards that allows you to use modern controllers with the original Xbox. It is a port of Ryzee’s own project ogx360, but far easier to put together.
+Using a Keyboard and Mouse
+The ogx360_t4 has a prebuilt Keyboard and Keyboard configuration for Steel Battalion. You must plug the mouse and keyboard to a hub and then plug the hub into the teensy, some hubs might require external power. When you compile ogx360_t4 you enter the command with the steelbattalion, see the instructions below on compiling.
+Rebinding the keyboard controls is fairly simple, you can open the steelbattalion.cpp file and see how the controls are bound, and edit them to your choosing
+Using a HOTAS Joystick
+I have attached a configuration for HOTAS. Following the subsequent instructions, you simply need to substitute this file for the Steel Battalion file located in ogx360_t4/src/ 
+This configuration uses a Gunfighter HOTAS stick 
+
+Full Custom Controller
+A microcontroller such as a pro micro, arduino, or another teensy can be used to map a keyboard, and the keyboard will serve as a controller using the inputs designated in the ogx360_t4 configuration. This task can be quite daunting if you are unfamiliar with keyboard creation so I will create some examples to show you.
+
+Compile Using Linux
+Using command line interface. Run the following commands
+Clone the repository
+git clone https://github.com/Ryzee119/ogx360_t4.git --recursive
+
+Confirm that python is installed 
+
+sudo apt install python3
+python3 --version
+
+Confirm that pip is installed
+sudo apt install python3-pip
+
+Configure the python environment, the version of python might change in the future so be careful.
+sudo apt-get install python3.14-venv
+
+
+Confirm that platformio is installed
+pip install platformio
+
+If you get a warning, you may have to do the command again with parameters like so
+
+pip install platformio --break-system-packages
+
+curl -fsSL -o get-platformio.py https://raw.githubusercontent.com/platformio/platformio-core-installer/master/get-platformio.py
+
+python3 get-platformio.py
+
+Add platformio as a shell command
+
+mkdir -p /usr/local/bin
+sudo ln -s ~/.platformio/penv/bin/platformio /usr/local/bin/platformio
+sudo ln -s ~/.platformio/penv/bin/pio /usr/local/bin/pio
+sudo ln -s ~/.platformio/penv/bin/piodebuggdb /usr/local/bin/piodebuggdb
+
+Move to ogx360_t4’s directory
+
+cd ogx360_t4
+
+From here you will decide which configuration for the teensy, in this case we want steel battalion. Outside of the command line interface, go to the ogx360_t4 directory and open the platformio.ini (in a text or code editor).
+At the very end of the file you will see two preset build environments DUKE and TEST
+[env:DUKE]
+build_flags = 
+    ${env.build_flags}
+    -DXID_DUKE=1
+    -DXID_STEELBATTALION=0
+    -DXID_XREMOTE=0
+
+
+<img width="624" height="364" alt="image" src="https://github.com/user-attachments/assets/157c5f6a-7499-4610-a49e-ed7faa55b819" />
+
+
+
+Back in the command line, run the command. Remember you need to be in the ogx360_t4 directory.
+platformio run -e SB
+after this you will get a hex file. Located at ogx360_t4\.pio\build\SB\ We must then flash this hex file to the teensy itself using Teensy loader for linux
+
+Compile Using Windows
+For windows you can either install Windows Subsystem for Linux and follow the Linux instructions above. Or you can use visual studio code.
+Visual Studio Code
+•	Download and install Visual Studio Code.
+•	Install the PlatformIO IDE plugin.
+•	Clone this repo recursively git clone https://github.com/Ryzee119/ogx360_t4.git --recursive
+•	In Visual Studio Code File > Open Folder... > ogx360_t4
+•	Hit build on the Platform IO toolbar (✓).
+You will get a hex file. We must then flash this hex file to the teensy using Teensy loader for windows
+Compile Using Mac OSX
+
+
+
+
+
+
+
+
+
+
+Alternatives to ogx360_t4
+OGX-Mini is a project by WiredOpposite that uses RP2040 boards to allow different gamepads to interact with Xbox, PS3, and Nintendo Switch. It has a built-in configuration (from og360) that will map Steel Battalion inputs to a Xbox 360 with a Chatpad attachment (see picture). Unfortunately, OGX-Mini’s configuration options are quite limited , so customization and rebinding appear to be out of the question. Hence I do not recommend it for Steel Battalion.
+
+
+<img width="975" height="965" alt="image" src="https://github.com/user-attachments/assets/7d95fc88-7829-45cb-86cd-088762b4ac45" />
+
