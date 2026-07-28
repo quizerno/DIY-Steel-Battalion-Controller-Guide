@@ -1,4 +1,4 @@
-# 5. Playing on Emulator.md
+# 5. Playing on Emulator
 
 
 Playing on Emulator
