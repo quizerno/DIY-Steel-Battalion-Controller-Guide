@@ -3,9 +3,10 @@
 
 For if you have a controller and need pedals.
 What You Need
--a Mini 6DIN connector WITH ALL 6 LINES, only 5 lines are used but a regular PS/2 Cable might not work if it omits two of the lines. This connects to the central control block
--a circuit board or a way to splice cables together
--Three Pedals with potentiometers, and will transmit up to 3.33v (see options below)
+
+* a Mini 6DIN connector WITH ALL 6 LINES, only 5 lines are used but a regular PS/2 Cable might not work if it omits two of the lines. This connects to the central control block
+* a circuit board or a way to splice cables together
+* Three Pedals with potentiometers, and will transmit up to 3.33v (see options below)
 
 The Pedals in the Original Controller and What They Do
 The original game controller uses three potentiometers. If you don’t understand this, it means that the game can detect different levels of pressure (analog)
