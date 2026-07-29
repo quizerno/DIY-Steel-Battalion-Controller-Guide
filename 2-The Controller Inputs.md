@@ -1,6 +1,6 @@
 # 2. The Controller Inputs
 
-If you want to create your own controller you will need to familiarize yourself with the inputs. 
+Here is an overview of all the inputs for the Steel Battalion Controller
 Each section will also detail an alternative for some of the harder to acquire parts
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/28f43c9a-d5ca-48b0-ae92-e34873a119f7" />
 
