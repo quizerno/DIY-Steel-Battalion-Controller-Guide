@@ -18,7 +18,7 @@ Each section will also detail an alternative for some of the harder to acquire p
 |---|---|
 | Seven positions|Gear change from Reverse, Neutral, or Speeds 1-5 |
 
-**Alternative Parts:** The gear shifter can be substituted with a two button switcher, creating a digital shifter.
+**Alternative Parts:** The gear shifter can be substituted with two buttons for switching between the gears, creating a digital shifter.
 
 
 
@@ -29,6 +29,8 @@ Each section will also detail an alternative for some of the harder to acquire p
 | Left-Right Joystick| Rotates VT left and right. |
 | Analog Hatstick|Operates the camera, clicking down on the stick recenters the camera |
 
+**Alternative Parts:** If needed, these inputs could be substituted with 6 push buttons
+
 
 **TOGGLE SWITCHES:** 
 |Input|Function|
@@ -36,7 +38,7 @@ Each section will also detail an alternative for some of the harder to acquire p
 | 5 Toggle Switches|  Used during the start-up sequence, in LoC these can be shut-off to confuse your enemy but leave you exposed. |
 
 
-**Alternative Parts:** Can be replaced with push buttons, or can be combined into 1 push button
+**Alternative Parts:** Can be substituted with push buttons, or can be combined into 1 push button
 
 
 ## MIDDLE BLOCK
@@ -46,7 +48,7 @@ Each section will also detail an alternative for some of the harder to acquire p
 
 
 
-###### **COMMUNICATIONS:** 5 Buttons 
+**COMMUNICATION BUTTONS:**
 
 **Function:** Changes depending on if you are playing original game or LoC 
 
