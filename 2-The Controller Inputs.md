@@ -1,7 +1,11 @@
 # 2. The Controller Inputs
 
 Here is an overview of all the inputs for the Steel Battalion Controller
-Each section will also detail an alternative for some of the harder to acquire parts
+Each section will also detail an alternative for some of the harder to acquire parts.
+
+A more detailed explanation of the controls can be found on the fan wiki, [here](https://steelbattalion.fandom.com/wiki/SB_Controller_Functions) and [here](https://steelbattalion.fandom.com/wiki/LoC_Controller_Function).
+
+
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/28f43c9a-d5ca-48b0-ae92-e34873a119f7" />
 
 
@@ -10,7 +14,6 @@ Each section will also detail an alternative for some of the harder to acquire p
 
 
 <img width="510" height="385" alt="image" src="https://github.com/user-attachments/assets/0d95fd2e-a58a-4606-905c-75f573276099" />
-<img width="532" height="554" alt="image" src="https://github.com/user-attachments/assets/7188d3a3-e7c7-4283-8a95-48806e50abd5" />
 
 
 **GEAR LEVER:** 
@@ -44,19 +47,18 @@ Each section will also detail an alternative for some of the harder to acquire p
 ## MIDDLE BLOCK
 <img width="510" height="424" alt="image" src="https://github.com/user-attachments/assets/a4806aad-5e78-4bcf-991b-3a991fd4cd77" />
 
-<img width="668" height="469" alt="image" src="https://github.com/user-attachments/assets/05461fa7-eee4-4bba-991c-1fc4751053ad" />
-
-
 
 **COMMUNICATION BUTTONS:**
 
 **Function:** Changes depending on if you are playing original game or LoC 
 
+###### **Original:** 
 **Original:** Used to communicate with HQ or squadmates dependent on mission 
-
 ###### **Line of Contact:** 
 
-|Com 1 – Open<br>Communication<br>with selected<br>teammate|Com 2 – Close<br>communication|Com 3 – Switch<br>to requested<br>communication|Com 4 – Pause<br>boombox<br>playlist|Com 5 – Next<br>track on<br>boombox<br>playlist|
+|Com 1 |Com 2 |Com 3|Com 4|Com 5|
+|---|---|---|---|---|
+|Open communication with <br>selected teammate<br>|Close<br>communication|Switch<br>to requested<br>communication|Pause<br>boombox<br>playlist|Next<br>track on<br>boombox<br>playlist|
 |---|---|---|---|---|
 
 
@@ -107,8 +109,6 @@ Or
 ## RIGHT BLOCK
 <img width="510" height="385" alt="image" src="https://github.com/user-attachments/assets/4a6a12b1-ca9c-4ceb-ba17-a95162565b4a" />
 
-<img width="516" height="590" alt="image" src="https://github.com/user-attachments/assets/4e305a77-7f7e-4f55-9b97-3b3ba385a732" />
-
 
 AIMING, WEAPONS FIRING, AND LOCK-ON: 1 Joystick with 3 buttons at least. This joystick will go in most directions.
 	Function: Fires main/sub weapons, and locks on to enemy
@@ -137,9 +137,9 @@ Total: 1 Joystick + 13 Push Buttons
 
 ###### **Function:** 
 
-|Left Pedal – Slide Step, does|||
+|Left Pedal – Slide Step, does|Right Pedal||
 |---|---|---|
-|an evasive manuever<br>depending on the direction<br>of the rotation joystick.|Middle Pedal – Break, slows<br>down.|Right Pedal – Acceleration,<br>speeds up|
+|an evasive manuever<br>depending on the direction<br>of the rotation joystick.|Middle Pedal – Break, slows<br>down.|Acceleration,<br>speeds up|
 |Jumps forward if no rotation|||
 
 
