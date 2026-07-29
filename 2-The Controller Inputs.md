@@ -1,51 +1,95 @@
 # 2. The Controller Inputs
 
-If you want to create your own controller you will need to familiarize yourself with the inputs.
+If you want to create your own controller you will need to familiarize yourself with the inputs. 
+Each section will also detail an alternative for some of the harder to acquire parts
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/28f43c9a-d5ca-48b0-ae92-e34873a119f7" />
 
 
  
 ## LEFT BLOCK
-**ROTATION AND SIGHT CHANGE:** 
-* 1 Joystick with an analog stick at the top that clicks down (push button), the joystick will go left-right, the analog stick will go all directions
-	**Function:**  Joystick rotates VT left and right. Analog stick operates the camera.
-  
-TOGGLE SWITCHES: 5 Toggle Switches OR 5 Push Buttons.
-	Function:  Used during the start-up sequence, in LoC these can be shut-off to confuse your enemy but leave you exposed.
-GEAR LEVER: 1 Gear Shifter with seven positions OR 2 buttons for alternating between 7 positions.
-	Function: Gear change from Reverse, Neutral, or Speeds 1-5
-Total: 1 Joystick+Analog Stick (with click down), 5 Toggle Switches+ 7 Position Gear Shifter) 
-Or
-Total: 1 Joystick+Analog Stick (with click down)+7 Pushbuttons
+
+
+<img width="510" height="385" alt="image" src="https://github.com/user-attachments/assets/0d95fd2e-a58a-4606-905c-75f573276099" />
+<img width="532" height="554" alt="image" src="https://github.com/user-attachments/assets/7188d3a3-e7c7-4283-8a95-48806e50abd5" />
+
+
+**GEAR LEVER:** 
+|Input|Function|
+|---|---|
+| Seven positions|Gear change from Reverse, Neutral, or Speeds 1-5 |
+
+**Alternative Parts:** The gear shifter can be substituted with a two button switcher, creating a digital shifter.
+
+
+
+**ROTATION LEVER AND SIGHT CHANGE**
+
+|Input|Function|
+|---|---|
+| Left-Right Joystick| Rotates VT left and right. |
+| Analog Hatstick|Operates the camera, clicking down on the stick recenters the camera |
+
+
+**TOGGLE SWITCHES:** 
+|Input|Function|
+|---|---|
+| 5 Toggle Switches|  Used during the start-up sequence, in LoC these can be shut-off to confuse your enemy but leave you exposed. |
+
+
+**Alternative Parts:** Can be replaced with push buttons, or can be combined into 1 push button
+
 
 ## MIDDLE BLOCK
-COMMUNICATIONS: 5 Buttons
-Function: Changes depending on if you are playing original game or LoC
-Original: Used to communicate with HQ or squadmates dependent on mission
-Line of Contact:
-Com 1 – Open Communication with selected teammate 	Com 2 – Close communication	Com 3 – Switch to requested communication	Com 4 – Pause boombox playlist	Com 5 – Next track on boombox playlist
+<img width="510" height="424" alt="image" src="https://github.com/user-attachments/assets/a4806aad-5e78-4bcf-991b-3a991fd4cd77" />
 
-FREQUENCY DIAL: 1Rotary Encoder/Potentiometer OR 2 Buttons for switching between channels
-Function: Used to change radio signal for communication with HQ or squadmates
+<img width="668" height="469" alt="image" src="https://github.com/user-attachments/assets/05461fa7-eee4-4bba-991c-1fc4751053ad" />
 
-Functions buttons: 9 Buttons
-	Function: 
-F1 OG: Mission dependent
-LoC: - Armor for Prominence
--Sniper Rifle Zoom	Tank Detach - removes fuel tank to increase speed	F.S.S. – Aiming system present on 2nd-3rd Gen VTs
-F2 OG: Mission dependent
-LoC: Focus to Multi-Monitor	Override – allows faster speed in return for fuel loss	Manipulator – Switches the right joystick control with an arm that is used to pick up objects or open doors
-F3 OG: Mission dependent
-LoC: Focus to Sub-Monitor	Night Scope – night vision	Line Color Change – changes HUD colors in case you need better visibility
 
-WEAPONS AND MAINTENANCE: 6 Buttons
-	Function:
-Washing – cleans main camera of debris	Extinguisher – puts out fires	Chaff – used to divert enemy aiming
-Main Weapon Control – changes main weapon	Sub Weapon Control – changes sub weapon	Magazine Change –
-Reloads main weapon
 
-Total: Potentiometer+20 Push buttons
-Or
-Total: 22 Push Buttons
+###### **COMMUNICATIONS:** 5 Buttons 
+
+**Function:** Changes depending on if you are playing original game or LoC 
+
+**Original:** Used to communicate with HQ or squadmates dependent on mission 
+
+###### **Line of Contact:** 
+
+|Com 1 – Open<br>Communication<br>with selected<br>teammate|Com 2 – Close<br>communication|Com 3 – Switch<br>to requested<br>communication|Com 4 – Pause<br>boombox<br>playlist|Com 5 – Next<br>track on<br>boombox<br>playlist|
+|---|---|---|---|---|
+
+
+
+**FREQUENCY DIAL:** 1Rotary Encoder/Potentiometer OR 2 Buttons for switching between channels 
+
+**Function:** Used to change radio signal for communication with HQ or squadmates 
+
+###### **FUNCTION BLOCK** : 9 Buttons 
+
+###### **Function:** 
+
+|F1**OG:**Mission dependent<br>**LoC: -**Armor for Prominence<br>-Sniper Rife Zoom|Tank Detach - removes<br>fuel tank to increase<br>speed|F.S.S. – Aiming system<br>present on 2nd-3rd Gen VTs|
+|---|---|---|
+|F2**OG:**Mission dependent<br>**LoC:**Focus to Multi-Monitor|Override – allows faster<br>speed in return for fuel<br>loss|Manipulator – Switches the<br>right joystick control with an<br>arm that is used to pick up<br>objects or open doors|
+|F3**OG:**Mission dependent<br>**LoC:**Focus to Sub-Monitor|Night Scope – night vision|Line Color Change –<br>changes HUD colors in case<br>you need better visibility|
+
+
+
+###### **WEAPONS AND MAINTENANCE:** 6 Buttons 
+
+###### **Function:** 
+
+|Washing – cleans main<br>camera of debris|Extinguisher – puts out fres|Chaf – used to divert<br>enemyaiming|
+|---|---|---|
+|Main Weapon Control –|Sub Weapon Control –|Magazine Change –|
+|changes main weapon|changes sub weapon|Reloads main weapon|
+
+
+
+###### **Total:** Potentiometer+20 Push buttons 
+
+Or 
+
+**Total:** 22 Push Buttons 
 
 
 
@@ -59,6 +103,11 @@ Total: 22 Push Buttons
 
 
 ## RIGHT BLOCK
+<img width="510" height="385" alt="image" src="https://github.com/user-attachments/assets/4a6a12b1-ca9c-4ceb-ba17-a95162565b4a" />
+
+<img width="516" height="590" alt="image" src="https://github.com/user-attachments/assets/4e305a77-7f7e-4f55-9b97-3b3ba385a732" />
+
+
 AIMING, WEAPONS FIRING, AND LOCK-ON: 1 Joystick with 3 buttons at least. This joystick will go in most directions.
 	Function: Fires main/sub weapons, and locks on to enemy
 MONITOR CONTROLS: 6 buttons
@@ -76,15 +125,28 @@ Total: 1 Joystick + 13 Push Buttons
 
 
 ## PEDAL BLOCK
-PEDALS: 3 Pedals these can be potentiometers or momentary switches but must have 3 lines, and will transmit up to 3.33v. OR 2 analogue buttons and 1 digital button
-	Function:
-Left Pedal – Slide Step, does an evasive manuever depending on the direction of the rotation joystick. Jumps forward if no rotation	Middle Pedal – Break, slows down.	Right Pedal – Acceleration, speeds up
 
 
 
-Total: 3 analog pedals/buttons
-Or
-Total: 3 push buttons/pedals
+<img width="665" height="458" alt="image" src="https://github.com/user-attachments/assets/c7a33850-3c73-4d05-a650-00eb5076e1d5" />
+
+
+**PEDALS:** 3 Pedals these can be potentiometers or momentary switches but must have 3 lines, and will transmit up to 3.33v. OR 2 analogue buttons and 1 digital button 
+
+###### **Function:** 
+
+|Left Pedal – Slide Step, does|||
+|---|---|---|
+|an evasive manuever<br>depending on the direction<br>of the rotation joystick.|Middle Pedal – Break, slows<br>down.|Right Pedal – Acceleration,<br>speeds up|
+|Jumps forward if no rotation|||
+
+
+
+**Total:** 3 analog pedals/buttons 
+
+Or 
+
+**Total:** 3 push buttons/pedals 
 
 
 OVERALL PARTS
