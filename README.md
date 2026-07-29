@@ -5,8 +5,15 @@ Guide for getting into Steel Battalion, focused on controller reproductiong and 
 
 This guide was initially just some documentation and instruction on how to create your own steel battalion controller or get the pedals working.
 But since I am obsessed with documentation, I have decided to expand it into the various ways to play Steel Battalion.
-Please also consult the main guide
-Steel Battalion Online F.A.Q. - Google Docs
+Please also consult the main guide.
+
+
+[Steel Battalion Online F.A.Q. - Google Docs
+](https://docs.google.com/document/d/17r_LhhonAIT3Vusn6__5buRspa8D00lDpAtynqyXSRo/edit?tab=t.0#heading=h.7yerq3kylii)
+
+
+This guide was originally written in Microsoft Word, and then converted to MD for viewability in Github [using this](https://cloudconvert.com/docx-to-md).
+
 
 # Table of Contents
 Introduction - Readme
