@@ -145,8 +145,6 @@ One Push Button Encased in a safety cover. Used to escape from your VT when it i
 
 Three pedals.
 
-###### **Function:** 
-
 |Left Pedal|Middle Pedal|Right Pedal|
 |---|---|---|
 | Slide Step: does an evasive manuever<br>depending on the direction<br>of the rotation joystick. Jumps forward if no rotation|Break, slows down depending on the pressure.|Acceleration: moves forward and speeds up depending on the pressure|
