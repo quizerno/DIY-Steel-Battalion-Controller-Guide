@@ -50,7 +50,7 @@ A more detailed explanation of the controls can be found on the fan wiki, [here]
 The middle block is unique in that some the functions are different between the original game and Line of Contact.
 
 ### FREQUENCY DIAL
-1 Rotary Dial with 5 positions, each corresponding to a channel.
+A Rotary Dial with 5 positions, each corresponding to a channel.
 
 **Original:** Used to change radio signal for communication with HQ or squadmates 
 |Channel 1 |Channel 2 |Channel 3|Channel 4|Channel 5|
@@ -64,20 +64,20 @@ The middle block is unique in that some the functions are different between the 
 |Leader|Ally 1|Ally 2|Ally 3|Ally 4|
 |---|---|---|---|---|
 
+**Alternative Parts:** Joystick throttle, Scroll Wheel Encoder, or can be substituted with 2 push buttons to make it a digital tuner.
+
 
 ### COMMUNICATION BUTTONS:
 
 Consists of 5 push buttons.
 
-##### **Original:** 
-Many of these are mission dependent, but generally are
+**Original**: These sometimes depend on the mission but are generally:
 |Com 1 |Com 2 |Com 3|Com 4|Com 5|
 |---|---|---|---|---|
 |Confirm communication|Repeat message request|None|Supply <br>request<br>|Backup Request|
 |---|---|---|---|---|
 
-##### **Line of Contact:** 
-
+**Line of Contact:**
 |Com 1 |Com 2 |Com 3|Com 4|Com 5|
 |---|---|---|---|---|
 |Open communication with <br>selected teammate<br>|Close<br>communication|Switch<br>to requested<br>communication|Pause<br>boombox<br>playlist|Next<br>track on<br>boombox<br>playlist|
@@ -85,47 +85,24 @@ Many of these are mission dependent, but generally are
 
 
 
-#### **FUNCTION BLOCK** :  
+#### FUNCTION BUTTONS:  
 
-Consists of 9 push buttons
+Consists of 9 push buttons in a 3x3 pattern
 
-###### **Function:** 
-
-|F1**OG:**Mission dependent<br>**LoC: -**Armor for Prominence<br>-Sniper Rife Zoom|Tank Detach - removes<br>fuel tank to increase<br>speed|F.S.S. – Aiming system<br>present on 2nd-3rd Gen VTs|
+||||
 |---|---|---|
-|F2**OG:**Mission dependent<br>**LoC:**Focus to Multi-Monitor|Override – allows faster<br>speed in return for fuel<br>loss|Manipulator – Switches the<br>right joystick control with an<br>arm that is used to pick up<br>objects or open doors|
-|F3**OG:**Mission dependent<br>**LoC:**Focus to Sub-Monitor|Night Scope – night vision|Line Color Change –<br>changes HUD colors in case<br>you need better visibility|
+|**F1** LoC: Detach Armor for Prominence or Sniper Rife Zoom|**Tank Detach:** removes fuel tank to increase speed|**F.S.S.**  Toggles to aiming system present on 2nd-3rd Gen VTs|
+|**F2** LoC: Focus to Multi-Monitor|**Override:** – toggle that allows faster speed in return for fuel loss|**Manipulator:** toggle that switches the<br>right joystick control with an arm that is used to pick up objects or open doors|
+|**F3** LoC:Focus to Sub-Monitor|**Night Scope:** – night vision|**Line Color Change:** – changes HUD colors in case you need better visibility|
 
+#### WEAPONS AND MAINTENANCE BUTTONS: 
 
+Consists of 6 push buttons in a 2x3 pattern
 
-#### **WEAPONS AND MAINTENANCE:** 
-
-Consists of 6 push buttons
-
-###### **Function:** 
-
+||||
 |Washing – cleans main<br>camera of debris|Extinguisher – puts out fres|Chaf – used to divert<br>enemyaiming|
+|Main Weapon Control: changes main weapon|Sub Weapon Control: changes sub weapon|Magazine Change –Reloads main weapon||
 |---|---|---|
-|Main Weapon Control –|Sub Weapon Control –|Magazine Change –|
-|changes main weapon|changes sub weapon|Reloads main weapon|
-
-
-
-###### **Total:** Potentiometer+20 Push buttons 
-
-Or 
-
-**Total:** 22 Push Buttons 
-
-
-
-
-
-
-
-
-
-
 
 
 ## RIGHT BLOCK
@@ -166,11 +143,8 @@ Total: 1 Joystick + 13 Push Buttons
 
 
 
-**Total:** 3 analog pedals/buttons 
+**Alternative Parts:** See section on the pedals for a full breakdown of what options you have.,
 
-Or 
-
-**Total:** 3 push buttons/pedals 
 
 
 OVERALL PARTS
