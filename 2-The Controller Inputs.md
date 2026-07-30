@@ -56,20 +56,18 @@ A Rotary Dial with 5 positions, each corresponding to a channel.
 |Channel 1 |Channel 2 |Channel 3|Channel 4|Channel 5|
 |---|---|---|---|---|
 |HQ (Argus)|Supply (Wagon Master)|Ally 1|Ally 2|Ally 3|
-|---|---|---|---|---|
 
 **Line of Contact:** Used to change radio signal for communication with HQ or squadmates 
 |Channel 1 |Channel 2 |Channel 3|Channel 4|Channel 5|
 |---|---|---|---|---|
 |Leader|Ally 1|Ally 2|Ally 3|Ally 4|
-|---|---|---|---|---|
 
 **Alternative Parts:** Joystick throttle, Scroll Wheel Encoder, or can be substituted with 2 push buttons to make it a digital tuner.
 
 
 ### COMMUNICATION BUTTONS:
 
-Consists of 5 push buttons.
+Consists of 5 push buttons in a row
 
 **Original**: These sometimes depend on the mission but are generally:
 |Com 1 |Com 2 |Com 3|Com 4|Com 5|
@@ -85,9 +83,9 @@ Consists of 5 push buttons.
 
 
 
-#### FUNCTION BUTTONS:  
+### FUNCTION BUTTONS:  
 
-Consists of 9 push buttons in a 3x3 pattern
+Consists of 9 push buttons in a 3x3 pattern. In the original game F1, F2, F3 are mission dependent on their function 
 
 ||||
 |---|---|---|
@@ -95,12 +93,12 @@ Consists of 9 push buttons in a 3x3 pattern
 |**F2** LoC: Focus to Multi-Monitor|**Override:** – toggle that allows faster speed in return for fuel loss|**Manipulator:** toggle that switches the<br>right joystick control with an arm that is used to pick up objects or open doors|
 |**F3** LoC:Focus to Sub-Monitor|**Night Scope:** – night vision|**Line Color Change:** – changes HUD colors in case you need better visibility|
 
-#### WEAPONS AND MAINTENANCE BUTTONS: 
+### WEAPONS AND MAINTENANCE BUTTONS: 
 
 Consists of 6 push buttons in a 2x3 pattern
 
 ||||
-|Washing – cleans main<br>camera of debris|Extinguisher – puts out fres|Chaf – used to divert<br>enemyaiming|
+|Washing: cleans main camera of debris|Extinguisher – puts out fires|Chaff: used to divert<br>enemyaiming|
 |Main Weapon Control: changes main weapon|Sub Weapon Control: changes sub weapon|Magazine Change –Reloads main weapon||
 |---|---|---|
 
@@ -109,9 +107,12 @@ Consists of 6 push buttons in a 2x3 pattern
 <img width="510" height="385" alt="image" src="https://github.com/user-attachments/assets/4a6a12b1-ca9c-4ceb-ba17-a95162565b4a" />
 
 
-AIMING, WEAPONS FIRING, AND LOCK-ON: 1 Joystick with 3 buttons at least. This joystick will go in most directions.
+### AIMING, WEAPONS FIRING, AND LOCK-ON: 
+
+1 Joystick with 3 buttons at least. This joystick will go in most directions.
 	Function: Fires main/sub weapons, and locks on to enemy
-MONITOR CONTROLS: 6 buttons
+### MONITOR CONTROLS: 
+Cosnsists of 6 buttons in a 3x2 pattern
 	Function:
 Open/Close – closes or opens the multi- monitor in case you want better viewing	Map Zoom In/Out – changes monitor map from small to large 
 Mode Select – switches multi-monitor between map, objective, or score	Sub Monitor Mode Select – changes the camera view of the sub monitor
