@@ -16,7 +16,7 @@ A more detailed explanation of the controls can be found on the fan wiki, [here]
 <img width="510" height="385" alt="image" src="https://github.com/user-attachments/assets/0d95fd2e-a58a-4606-905c-75f573276099" />
 
 
-**GEAR LEVER:** 
+### GEAR LEVER: 
 |Input|Function|
 |---|---|
 | Seven positions|Gear change from Reverse, Neutral, or Speeds 1-5 |
@@ -25,7 +25,7 @@ A more detailed explanation of the controls can be found on the fan wiki, [here]
 
 
 
-**ROTATION LEVER AND SIGHT CHANGE**
+## ROTATION LEVER AND SIGHT CHANGE
 
 |Input|Function|
 |---|---|
@@ -35,7 +35,7 @@ A more detailed explanation of the controls can be found on the fan wiki, [here]
 **Alternative Parts:** If needed, these inputs could be substituted with 6 push buttons
 
 
-**TOGGLE SWITCHES:** 
+### TOGGLE SWITCHES:
 |Input|Function|
 |---|---|
 | 5 Toggle Switches|  Used during the start-up sequence, in LoC these can be shut-off to confuse your enemy but leave you exposed. |
@@ -48,13 +48,28 @@ A more detailed explanation of the controls can be found on the fan wiki, [here]
 <img width="510" height="424" alt="image" src="https://github.com/user-attachments/assets/a4806aad-5e78-4bcf-991b-3a991fd4cd77" />
 
 
-**COMMUNICATION BUTTONS:**
 
-**Function:** Changes depending on if you are playing original game or LoC 
+### FREQUENCY DIAL
+1Rotary Encoder/Potentiometer OR 2 Buttons for switching between channels, there are 5 channels total 
 
-###### **Original:** 
-**Original:** Used to communicate with HQ or squadmates dependent on mission 
-###### **Line of Contact:** 
+**Original:** Used to change radio signal for communication with HQ or squadmates 
+|Channel 1 |Channel 2 |Channel 3|Channel 4|Channel 5|
+|---|---|---|---|---|
+|HQ (Argus)|Close<br>communication|Switch<br>to requested<br>communication|Pause<br>boombox<br>playlist|Next<br>track on<br>boombox<br>playlist|
+|---|---|---|---|---|
+
+### COMMUNICATION BUTTONS:
+
+Five push buttons. Their function changes depending on if you are playing original game or LoC 
+
+##### **Original:** 
+Many of these are mission dependent
+|Com 1 |Com 2 |Com 3|Com 4|Com 5|
+|---|---|---|---|---|
+|Confirm communication with <br>HQ or AI<br>|Close<br>communication|Switch<br>to requested<br>communication|Pause<br>boombox<br>playlist|Next<br>track on<br>boombox<br>playlist|
+|---|---|---|---|---|
+
+##### **Line of Contact:** 
 
 |Com 1 |Com 2 |Com 3|Com 4|Com 5|
 |---|---|---|---|---|
@@ -62,10 +77,6 @@ A more detailed explanation of the controls can be found on the fan wiki, [here]
 |---|---|---|---|---|
 
 
-
-**FREQUENCY DIAL:** 1Rotary Encoder/Potentiometer OR 2 Buttons for switching between channels 
-
-**Function:** Used to change radio signal for communication with HQ or squadmates 
 
 ###### **FUNCTION BLOCK** : 9 Buttons 
 
