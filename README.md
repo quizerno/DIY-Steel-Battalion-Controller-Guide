@@ -1,6 +1,8 @@
 # DIY-Steel-Battalion-Controller-Guide
 Guide for getting into Steel Battalion, focused on controller reproductiong and game emulation.
 
+This guide is currently in WIP
+
 # Introduction
 
 This guide was initially just some documentation and instruction on how to create your own steel battalion controller or get the pedals working.
