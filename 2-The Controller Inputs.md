@@ -47,26 +47,33 @@ A more detailed explanation of the controls can be found on the fan wiki, [here]
 ## MIDDLE BLOCK
 <img width="510" height="424" alt="image" src="https://github.com/user-attachments/assets/a4806aad-5e78-4bcf-991b-3a991fd4cd77" />
 
-
+The middle block is unique in that some the functions are different between the original game and Line of Contact.
 
 ### FREQUENCY DIAL
-1Rotary Encoder/Potentiometer OR 2 Buttons for switching between channels, there are 5 channels total 
+1 Rotary Dial with 5 positions, each corresponding to a channel.
 
 **Original:** Used to change radio signal for communication with HQ or squadmates 
 |Channel 1 |Channel 2 |Channel 3|Channel 4|Channel 5|
 |---|---|---|---|---|
-|HQ (Argus)|Close<br>communication|Switch<br>to requested<br>communication|Pause<br>boombox<br>playlist|Next<br>track on<br>boombox<br>playlist|
+|HQ (Argus)|Supply (Wagon Master)|Ally 1|Ally 2|Ally 3|
 |---|---|---|---|---|
+
+**Line of Contact:** Used to change radio signal for communication with HQ or squadmates 
+|Channel 1 |Channel 2 |Channel 3|Channel 4|Channel 5|
+|---|---|---|---|---|
+|Leader|Ally 1|Ally 2|Ally 3|Ally 4|
+|---|---|---|---|---|
+
 
 ### COMMUNICATION BUTTONS:
 
-Five push buttons. Their function changes depending on if you are playing original game or LoC 
+Consists of 5 push buttons.
 
 ##### **Original:** 
-Many of these are mission dependent
+Many of these are mission dependent, but generally are
 |Com 1 |Com 2 |Com 3|Com 4|Com 5|
 |---|---|---|---|---|
-|Confirm communication with <br>HQ or AI<br>|Close<br>communication|Switch<br>to requested<br>communication|Pause<br>boombox<br>playlist|Next<br>track on<br>boombox<br>playlist|
+|Confirm communication|Repeat message request|None|Supply <br>request<br>|Backup Request|
 |---|---|---|---|---|
 
 ##### **Line of Contact:** 
@@ -78,7 +85,9 @@ Many of these are mission dependent
 
 
 
-###### **FUNCTION BLOCK** : 9 Buttons 
+#### **FUNCTION BLOCK** :  
+
+Consists of 9 push buttons
 
 ###### **Function:** 
 
@@ -89,7 +98,9 @@ Many of these are mission dependent
 
 
 
-###### **WEAPONS AND MAINTENANCE:** 6 Buttons 
+#### **WEAPONS AND MAINTENANCE:** 
+
+Consists of 6 push buttons
 
 ###### **Function:** 
 
