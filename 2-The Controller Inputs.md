@@ -32,7 +32,7 @@ A more detailed explanation of the controls can be found on the fan wiki, [here]
 | Left-Right Joystick| Rotates VT left and right. |
 | Analog Hatstick|Operates the camera, clicking down on the stick recenters the camera |
 
-**Alternative Parts:** If needed, these inputs could be substituted with 6 push buttons
+**Alternative Parts:** A joystick with a hatstick and a button. If needed, these inputs could be substituted with 6 push buttons.
 
 
 ### TOGGLE SWITCHES:
@@ -89,66 +89,73 @@ Consists of 9 push buttons in a 3x3 pattern. In the original game F1, F2, F3 are
 
 ||||
 |---|---|---|
-|**F1** LoC: Detach Armor for Prominence or Sniper Rife Zoom|**Tank Detach:** removes fuel tank to increase speed|**F.S.S.**  Toggles to aiming system present on 2nd-3rd Gen VTs|
-|**F2** LoC: Focus to Multi-Monitor|**Override:** – toggle that allows faster speed in return for fuel loss|**Manipulator:** toggle that switches the<br>right joystick control with an arm that is used to pick up objects or open doors|
-|**F3** LoC:Focus to Sub-Monitor|**Night Scope:** – night vision|**Line Color Change:** – changes HUD colors in case you need better visibility|
+|**F1** LoC: Detach Armor for Prominence or Sniper Rife Zoom|**Tank Detach:** Removes fuel tank to increase speed|**F.S.S.**  Toggles to aiming system present on 2nd-3rd Gen VTs|
+|**F2** LoC: Focus to Multi-Monitor|**Override:** Toggle that allows faster speed in return for fuel loss|**Manipulator:** Toggle that switches the<br>right joystick control with an arm that is used to pick up objects or open doors|
+|**F3** LoC: Focus to Sub-Monitor|**Night Scope:** Night vision|**Line Color Change:** Changes HUD colors in case you need better visibility|
 
 ### WEAPONS AND MAINTENANCE BUTTONS: 
 
 Consists of 6 push buttons in a 2x3 pattern
 
 ||||
-|Washing: cleans main camera of debris|Extinguisher – puts out fires|Chaff: used to divert<br>enemyaiming|
-|Main Weapon Control: changes main weapon|Sub Weapon Control: changes sub weapon|Magazine Change –Reloads main weapon||
 |---|---|---|
+|**Washing:** Cleans main camera of debris|**Extinguisher:** Puts out cockpit fires|**Chaff:** Fires chaffs used to divert missiles|
+|**Main Weapon Control**: Changes main weapon|**Sub Weapon Control:** Changes sub weapon|**Magazine Change**: Reloads main weapon|
 
 
 ## RIGHT BLOCK
 <img width="510" height="385" alt="image" src="https://github.com/user-attachments/assets/4a6a12b1-ca9c-4ceb-ba17-a95162565b4a" />
 
 
-### AIMING, WEAPONS FIRING, AND LOCK-ON: 
+### AIMING LEVER 
 
-1 Joystick with 3 buttons at least. This joystick will go in most directions.
-	Function: Fires main/sub weapons, and locks on to enemy
+|Input|Function|
+|---|---|
+| X-Y Joystick| Aims weapons |
+| Trigger|Fires subweapon |
+| Primary Weapon| Fires primary weapon |
+| Lock-On|Locks on to targeted enemy |
+
+**Alternative Parts:** A joystick with a trigger and 2 buttons. Mouse with two buttons.
+
 ### MONITOR CONTROLS: 
-Cosnsists of 6 buttons in a 3x2 pattern
-	Function:
-Open/Close – closes or opens the multi- monitor in case you want better viewing	Map Zoom In/Out – changes monitor map from small to large 
-Mode Select – switches multi-monitor between map, objective, or score	Sub Monitor Mode Select – changes the camera view of the sub monitor
-Main Monitor Zoom IN – zoom in	Main Monitor Zoom Out – zoom out
+Cosnsists of 6 push buttons in a 3x2 pattern
 
-START-UP: 3 Buttons
-	Function: Used during the start-up sequence
-EJECT: 1 Button
-	Function: Used to escape from your VT, otherwise your progress is erased
+|||
+|---|---|
+|**Open/Close:** closes or opens the multi-monitor|**Map Zoom In/Out:**  changes monitor map from small to large|
+|**Mode Select:** witches multi-monitor between map, objective, or score|**Sub Monitor Mode Select:**  changes the camera view of the sub monitors|
+|**Zoom In** Zoom In Main Monitor|**Zoom Out:** Zoom Out Main Monitor|
 
-Total: 1 Joystick + 13 Push Buttons
 
+### START-UP
+
+Three buttons used during the start-up sequence.
+||
+|---|
+|**CLOSE HATCH:** Pressed first|
+|**IGNITION:** Pressed second|
+|**START:** Pressed when all gauges reach optimal|
+
+### EJECT-CMD: 
+One Push Button Encased in a safety cover. Used to escape from your VT when it is about to be destroyed, otherwise your progress is erased
 
 ## PEDAL BLOCK
-
-
-
 <img width="665" height="458" alt="image" src="https://github.com/user-attachments/assets/c7a33850-3c73-4d05-a650-00eb5076e1d5" />
 
-
-**PEDALS:** 3 Pedals these can be potentiometers or momentary switches but must have 3 lines, and will transmit up to 3.33v. OR 2 analogue buttons and 1 digital button 
+Three pedals.
 
 ###### **Function:** 
 
-|Left Pedal – Slide Step, does|Right Pedal||
+|Left Pedal|Middle Pedal|Right Pedal|
 |---|---|---|
-|an evasive manuever<br>depending on the direction<br>of the rotation joystick.|Middle Pedal – Break, slows<br>down.|Acceleration,<br>speeds up|
-|Jumps forward if no rotation|||
+| Slide Step: does an evasive manuever<br>depending on the direction<br>of the rotation joystick. Jumps forward if no rotation|Break, slows down depending on the pressure.|Acceleration: moves forward and speeds up depending on the pressure|
+
+**Alternative Parts:** See [section on the pedals](https://github.com/quizerno/DIY-Steel-Battalion-Controller-Guide/blob/main/4-Building%20The%20Pedals.md) for a full breakdown of what options you have.,
 
 
 
-**Alternative Parts:** See section on the pedals for a full breakdown of what options you have.,
-
-
-
-OVERALL PARTS
+## OVERALL PARTS
 
 Finish this
 Two Joysticks
