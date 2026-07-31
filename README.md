@@ -1,5 +1,5 @@
 # Steel-Battalion-Entry-Guide-Guide
-Guide for getting into Steel Battalion, focused on controller reproductiong and game emulation.
+Guide for getting into Steel Battalion, focused on controller reproduction and game emulation.
 
 This guide is currently in WIP
 
