@@ -16,7 +16,7 @@ A more detailed explanation of the controls can be found on the fan wiki, [here]
 <img width="510" height="385" alt="image" src="https://github.com/user-attachments/assets/0d95fd2e-a58a-4606-905c-75f573276099" />
 
 
-### GEAR LEVER: 
+### >GEAR LEVER: 
 |Input|Function|
 |---|---|
 | Seven positions|Gear change from Reverse, Neutral, or Speeds 1-5 |
@@ -25,7 +25,7 @@ A more detailed explanation of the controls can be found on the fan wiki, [here]
 
 
 
-### ROTATION LEVER AND SIGHT CHANGE
+### >ROTATION LEVER AND SIGHT CHANGE
 
 |Input|Function|
 |---|---|
@@ -35,7 +35,7 @@ A more detailed explanation of the controls can be found on the fan wiki, [here]
 **Alternative Parts:** A joystick with a hatstick and a button. If needed, these inputs could be substituted with 6 push buttons.
 
 
-### TOGGLE SWITCHES:
+### >TOGGLE SWITCHES:
 |Input|Function|
 |---|---|
 | 5 Toggle Switches|  Used during the start-up sequence, in LoC these can be shut-off to confuse your enemy but leave you exposed. |
@@ -49,7 +49,7 @@ A more detailed explanation of the controls can be found on the fan wiki, [here]
 
 The middle block is unique in that some the functions are different between the original game and Line of Contact.
 
-### FREQUENCY DIAL
+### >FREQUENCY DIAL
 A Rotary Dial with 5 positions, each corresponding to a channel.
 
 **Original:** Used to change radio signal for communication with HQ or squadmates 
@@ -65,7 +65,7 @@ A Rotary Dial with 5 positions, each corresponding to a channel.
 **Alternative Parts:** Joystick throttle, Scroll Wheel Encoder, or can be substituted with 2 push buttons to make it a digital tuner.
 
 
-### COMMUNICATION BUTTONS:
+### >COMMUNICATION BUTTONS:
 
 Consists of 5 push buttons in a row
 
@@ -83,7 +83,7 @@ Consists of 5 push buttons in a row
 
 
 
-### FUNCTION BUTTONS:  
+### >FUNCTION BUTTONS:  
 
 Consists of 9 push buttons in a 3x3 pattern. In the original game F1, F2, F3 are mission dependent on their function 
 
@@ -93,7 +93,7 @@ Consists of 9 push buttons in a 3x3 pattern. In the original game F1, F2, F3 are
 |**F2** LoC: Focus to Multi-Monitor|**Override:** Toggle that allows faster speed in return for fuel loss|**Manipulator:** Toggle that switches the<br>right joystick control with an arm that is used to pick up objects or open doors|
 |**F3** LoC: Focus to Sub-Monitor|**Night Scope:** Night vision|**Line Color Change:** Changes HUD colors in case you need better visibility|
 
-### WEAPONS AND MAINTENANCE BUTTONS: 
+### >WEAPONS AND MAINTENANCE BUTTONS: 
 
 Consists of 6 push buttons in a 2x3 pattern
 
@@ -107,7 +107,7 @@ Consists of 6 push buttons in a 2x3 pattern
 <img width="510" height="385" alt="image" src="https://github.com/user-attachments/assets/4a6a12b1-ca9c-4ceb-ba17-a95162565b4a" />
 
 
-### AIMING LEVER 
+### >AIMING LEVER 
 
 |Input|Function|
 |---|---|
@@ -118,7 +118,7 @@ Consists of 6 push buttons in a 2x3 pattern
 
 **Alternative Parts:** A joystick with a trigger and 2 buttons. Mouse with two buttons.
 
-### MONITOR CONTROLS: 
+### >MONITOR CONTROLS: 
 Cosnsists of 6 push buttons in a 3x2 pattern
 
 |||
@@ -128,22 +128,22 @@ Cosnsists of 6 push buttons in a 3x2 pattern
 |**Zoom In** Zoom In Main Monitor|**Zoom Out:** Zoom Out Main Monitor|
 
 
-### START-UP
+### >START-UP
 
-Three buttons used during the start-up sequence.
+Three buttons in 3x1 pattern used during the start-up sequence.
 ||
 |---|
 |**CLOSE HATCH:** Pressed first|
 |**IGNITION:** Pressed second|
 |**START:** Pressed when all gauges reach optimal|
 
-### EJECT-CMD: 
+### >EJECT-CMD: 
 One Push Button Encased in a safety cover. Used to escape from your VT when it is about to be destroyed, otherwise your progress is erased
 
 ## PEDAL BLOCK
 <img width="665" height="458" alt="image" src="https://github.com/user-attachments/assets/c7a33850-3c73-4d05-a650-00eb5076e1d5" />
 
-Three pedals.
+Three analog pedals.
 
 |Left Pedal|Middle Pedal|Right Pedal|
 |---|---|---|
