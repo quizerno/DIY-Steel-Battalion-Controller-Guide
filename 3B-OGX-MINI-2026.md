@@ -12,6 +12,50 @@ cd ../RP2040/build
 cmake -DOGXM_BOARD=[BOARD OPTION] -DOGXM_FIXED_DRIVER=[CONTROLLER OPTION] -DCMAKE_BUILD_TYPE=[Debug or Release] ..
 make 
 ```
+In the field [BOARD OPTION], substitute which board you have and want to build for.
+
+```
+BOARDS=(
+  "PI_PICO:Pi Pico"
+  "PI_PICO2:Pi Pico 2"
+  "PI_PICOW:Pi Pico W"
+  "PI_PICO2W:Pi Pico 2 W"
+  "RP2040_ZERO:Waveshare RP2040-Zero"
+  "RP2350_ZERO:Waveshare RP2350-Zero"
+  "RP2350_USB_A:Waveshare RP2350-USB-A"
+  "RP2040_XIAO:Seeed Studio XIAO RP2040"
+  "RP2354:RP2354 (RP2350 + Pi Radio Module 2 — BT + PIO USB host GP0/GP1)"
+  "ADAFRUIT_FEATHER:Adafruit Feather USB Host"
+  "EXTERNAL_4CH_I2C:External 4CH I2C"
+  "ESP32_BLUEPAD32_I2C:ESP32 Bluepad32 I2C"
+  "ESP32_BLUERETRO_I2C:ESP32 BlueRetro I2C"
+)
+```
+In [CONTROLLER OPTION], substitute which controller you wish to use. If you do not use this option, it will result in a combo mode where the you have to use a button combination to switch to Xbox input mode.
+
+```
+FIXED_DRIVERS=(
+  "XINPUT:Xbox 360 (XInput)"
+  "XBOXOG:Original Xbox (Gamepad)"
+  "PS3:PlayStation 3"
+  "SWITCH:Nintendo Switch Pro"
+  "WIIU:Wii U (GameCube Adapter)"
+  "WII:Wii (Wiimote)"
+  "PS1PS2:PlayStation 1/2 (GPIO)"
+  "GAMECUBE:GameCube (GPIO)"
+  "DREAMCAST:Dreamcast (GPIO)"
+  "N64:Nintendo 64 (GPIO)"
+  "DINPUT:DInput"
+  "PS4:PlayStation 4 (DualShock 4 USB)"
+  "STEAM:SteamOS / Bazzite (DualSense + touchpad mouse)"
+  "PSCLASSIC:PlayStation Classic"
+  "WEBAPP:Web App"
+```
+
+The last field, [Debug or Release], put "release"
+
+In my case I wanted to 
+
 
 
 # Default Configuration
