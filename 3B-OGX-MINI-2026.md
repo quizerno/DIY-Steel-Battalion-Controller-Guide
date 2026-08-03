@@ -3,6 +3,15 @@
 https://github.com/wiredopposite/OGX-Mini
 https://github.com/MegaCadeDev/OGX-Mini-2026
 
+OGX-Mini-2026 is a fork of the original OGX-Mini, it allows modern controllers to interact with older consoles.
+It requires a RP2040 board, which there are many options
+
+## Wiring the USB Host
+The original repository has some [examples of the wiring.
+](https://github.com/MegaCadeDev/OGX-Mini-2026/tree/master/hardware).
+
+
+## Building the firmware
 Build in Linux or WSL, using these instructions.
 
 ```
@@ -65,10 +74,15 @@ Press then type
 ```
 make
 ```
-and press enter.
+and press enter. Verify that firmware file (.uf2) was created.
 
+## Flashing the Firmware
+Holding down on the BOOT SELECT button, plug the RP2040 board into the computer. This will connect the board in flash mode.
+Simply drag and drop the uf2 file to the board.
 
-
-# Default Configuration
+## Default Configuration
 By default, OGX-MINI's configuration defaults to this control scheme using the Xbox 360+Chatpad
 <img width="975" height="965" alt="image" src="https://github.com/user-attachments/assets/7d95fc88-7829-45cb-86cd-088762b4ac45" />
+
+
+##
