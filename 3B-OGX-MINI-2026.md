@@ -1,5 +1,7 @@
 # 3B. OGX-MINI-2026
-Based off
+
+https://github.com/wiredopposite/OGX-Mini
+https://github.com/MegaCadeDev/OGX-Mini-2026
 
 Build in Linux or WSL, using these instructions.
 
@@ -52,9 +54,18 @@ FIXED_DRIVERS=(
   "WEBAPP:Web App"
 ```
 
-The last field, [Debug or Release], put "release"
+The last field, [Debug or Release], put "Release"
 
-In my case I wanted to 
+In my case I wanted to build for the Pico, Fixed Xbox Driver, in release mode.
+
+```
+cmake -DOGXM_BOARD=PI_PICO -DOGXM_FIXED_DRIVER=XBOXOG -DCMAKE_BUILD_TYPE=Release ..
+```
+Press then type 
+```
+make
+```
+and press enter.
 
 
 
