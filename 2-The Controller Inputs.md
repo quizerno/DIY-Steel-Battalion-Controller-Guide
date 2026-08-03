@@ -10,7 +10,7 @@ A more detailed explanation of the controls can be found on the fan wiki, [here]
 
 
  
-## LEFT BLOCK
+# LEFT BLOCK
 
 
 <img width="510" height="385" alt="image" src="https://github.com/user-attachments/assets/0d95fd2e-a58a-4606-905c-75f573276099" />
@@ -44,7 +44,7 @@ A more detailed explanation of the controls can be found on the fan wiki, [here]
 **Alternative Parts:** Can be substituted with push buttons, or can be combined into 1 push button
 
 
-## MIDDLE BLOCK
+# MIDDLE BLOCK
 <img width="510" height="424" alt="image" src="https://github.com/user-attachments/assets/a4806aad-5e78-4bcf-991b-3a991fd4cd77" />
 
 The middle block is unique in that some the functions are different between the original game and Line of Contact.
@@ -103,7 +103,7 @@ Consists of 6 push buttons in a 2x3 pattern
 |**Main Weapon Control**: Changes main weapon|**Sub Weapon Control:** Changes sub weapon|**Magazine Change**: Reloads main weapon|
 
 
-## RIGHT BLOCK
+# RIGHT BLOCK
 <img width="510" height="385" alt="image" src="https://github.com/user-attachments/assets/4a6a12b1-ca9c-4ceb-ba17-a95162565b4a" />
 
 
@@ -140,7 +140,7 @@ Three buttons in 3x1 pattern used during the start-up sequence.
 ### >EJECT-CMD: 
 One Push Button Encased in a safety cover. Used to escape from your VT when it is about to be destroyed, otherwise your progress is erased
 
-## PEDAL BLOCK
+# PEDAL BLOCK
 <img width="665" height="458" alt="image" src="https://github.com/user-attachments/assets/c7a33850-3c73-4d05-a650-00eb5076e1d5" />
 
 Three analog pedals.
