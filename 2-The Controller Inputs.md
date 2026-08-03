@@ -17,31 +17,25 @@ A more detailed explanation of the controls can be found on the fan wiki, [here]
 
 
 ### >GEAR LEVER: 
-|Input|Function|
-|---|---|
-| Seven positions|Gear change from Reverse, Neutral, or Speeds 1-5 |
-
-**Alternative Parts:** The gear shifter can be substituted with two buttons for switching between the gears, creating a digital shifter.
+|Input|Function|Alternative Parts|
+|---|---|---|
+| Seven positions|Gear change from Reverse, Neutral, or Speeds 1-5 | The gear shifter can be substituted with two buttons for switching between the gears, creating a digital shifter. Some dials and throttles could potentially be remapped|
 
 
 
 ### >ROTATION LEVER AND SIGHT CHANGE
 
-|Input|Function|
-|---|---|
-| Left-Right Joystick| Rotates VT left and right. |
-| Analog Hatstick|Operates the camera, clicking down on the stick recenters the camera |
-
-**Alternative Parts:** A joystick with a hatstick and a button. If needed, these inputs could be substituted with 6 push buttons.
+|Input|Function|Alternative Parts|
+|---|---|---|
+| Left-Right Joystick| Rotates VT left and right. | Joystick with only one axis mapped or 2 buttons
+| Analog Hatstick|Operates the camera, clicking down on the stick recenters the camera | 5 push buttons or simple hatstick and one push button|
 
 
 ### >TOGGLE SWITCHES:
-|Input|Function|
-|---|---|
-| 5 Toggle Switches|  Used during the start-up sequence, in LoC these can be shut-off to confuse your enemy but leave you exposed. |
+|Input|Function|Alternative Parts|
+|---|---|---|
+| 5 Toggle Switches|  Used during the start-up sequence, in LoC these can be shut-off to confuse your enemy but leave you exposed. | Can be substituted with push buttons, or can be combined into 1 push button|
 
-
-**Alternative Parts:** Can be substituted with push buttons, or can be combined into 1 push button
 
 
 # MIDDLE BLOCK
@@ -109,10 +103,10 @@ Consists of 6 push buttons in a 2x3 pattern
 
 ### >AIMING LEVER 
 
-|Input|Function|
-|---|---|
-| X-Y Joystick| Aims weapons |
-| Trigger|Fires subweapon |
+|Input|Function|Alternative Parts|
+|---|---|---|
+| X-Y Joystick| Aims weapons|Joystick, Mouse (see note
+| Trigger|Fires subweapon|Mouse buttons
 | Primary Weapon| Fires primary weapon |
 | Lock-On|Locks on to targeted enemy |
 
