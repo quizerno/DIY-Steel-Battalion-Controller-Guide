@@ -25,7 +25,7 @@ A more detailed explanation of the controls can be found on the fan wiki, [here]
 
 
 
-## ROTATION LEVER AND SIGHT CHANGE
+### ROTATION LEVER AND SIGHT CHANGE
 
 |Input|Function|
 |---|---|
