@@ -23,10 +23,17 @@
   needs**, **flexible for other games**, and **adaptable to the other
   emulators**.
 
-## Quality of life (new SCT dropdown)
+## Quality of Life for SCT
 
+### SCT View
 A **fourth section in the SCT view dropdown**, beside left/middle/right block.
 Contents so far:
+
+## Mouse Options
+- Steel Battalion's interaction with mouse movement is partially dependent on the usage.
+- Weapon Aim (Right Stick): By default the weapon aim will limit the cursor to the window size of the main monitor.
+- If the player decides to use a multi-monitor set-up, this limitation needs to be recognized, it could be indicated with some sort of optional border overlay
+
 
 ### Alt-to-look (Arma 3 style)
 - A function for mouse users that do not have a left joystick
@@ -46,7 +53,6 @@ Contents so far:
 - Note that this **Optional Controller Consolidation** which should not be confused with possible **Necessary Controller Solidation** for the Gear Shifter and Tuner Dial 
 
 
-
 ## Input Settings Menu: 
 
 ### Kiosk mode (hotkey)
@@ -58,11 +64,11 @@ Contents so far:
   disable the emulator's own hotkeys wholesale.
 - The kiosk hotkey itself must stay live so it can be toggled back off.
 
-###Toggle Fullscreen Switch
+### Toggle Fullscreen Switch
 - Turns off Xemu's double-click that switches the emulator window between fullscreen mode and windowed mode
 -**Default: Disables This**
 - Rationale: not just for Steel Battalionm for FPS games that use the mouse this is a must-have..
-
+- Rebinding to ALT+ENTER
 
 ## Display Settings Menu: 
 
@@ -75,3 +81,9 @@ Contents so far:
 -  Done so that it is not in the way of mouse users
 - **Default: Cursor On**
 - Rationale: Done for FPS games and Steel Battalion.
+
+
+## Optimization
+
+
+
