@@ -6,8 +6,9 @@ But if you want to play on Xbox or are curious about tinkering, read on.
 Before building the controller proper we need hardware that emulates the original controller's signals.
 For the sake of ease, we will call this an Adapter Board.
 
-# Skills you need
+**Skills you need**
 - Knowledge of programming: Coding is not strictly necessary unless you want to do more complex control options.
+- Mild understanding of linux commands
 - Basic soldering: you will need to solder 4 points
 - Patience: this can be difficult
 
