@@ -1,9 +1,7 @@
 # 3B. OGX-MINI-2026
-
-https://github.com/wiredopposite/OGX-Mini
-https://github.com/MegaCadeDev/OGX-Mini-2026
-
-OGX-Mini-2026 is a fork of the original OGX-Mini, it allows modern controllers to interact with older consoles.
+[OGX-Mini-2026](https://github.com/MegaCadeDev/OGX-Mini-2026
+) is a fork of the original [OGX-Mini](https://github.com/wiredopposite/OGX-Mini
+), it allows modern controllers to interact with older consoles.
 It requires a RP2040 board, which there are many options
 
 ## Wiring the USB Host
