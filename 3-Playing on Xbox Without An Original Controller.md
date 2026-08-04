@@ -1,4 +1,4 @@
-# 3. Playing on Xbox Without An Original Controller (Adapter Boards)
+# 3. Playing on Xbox Without An Original Controller
 
 If you plan on playing on emulator, you can skip this section.
 But if you want to play on Xbox or are curious about tinkering, read on.
