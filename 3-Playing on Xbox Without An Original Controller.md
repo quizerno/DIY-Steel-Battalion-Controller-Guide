@@ -3,8 +3,7 @@
 If you plan on playing on emulator, you can skip this section.
 But if you want to play on Xbox or are curious about tinkering, read on.
 
-Before building the controller proper we need hardware that emulates the original controller's signals.
-For the sake of ease, we will call this an Adapter Board.
+
 
 **Skills you need**
 - Knowledge of programming: Coding is not strictly necessary unless you want to do more complex control options.
@@ -12,9 +11,18 @@ For the sake of ease, we will call this an Adapter Board.
 - Basic soldering: you will need to solder 4 points
 - Patience: this can be difficult
 
+# Xbox Modding
+
+As said in the intro, I am not going to be detailing Xbox Mods as there are many tutorials.
+There is softmodding, hardmodding, and TSOP modding. All will give a custom dashboard capable of running Steel Battalion.
+
 # Hardware
-## Hardware you will need regardless
-Omitting obvious things like a computer
+
+## Adapter Board
+Before building the controller proper we need hardware that emulates the original controller's signals.
+For the sake of ease, we will call this an Adapter Board.
+
+To connect the adapter board to the Xbox, you will need a cable that allows you to connect USB devices to the Xbox.  If you have done softmodding or hard modding before, you will likely have some experience with this.
 |Hardware|Usage|Where to Buy|Price|
 |---|---|---|---|
 |USB-Female to Xbox Cable|Allows interfacing with the Original Xbox, also used for softmodding| [Ebay](https://www.ebay.com/itm/127869049454) among other places, you can also build one if you have a spare Xbox breakaway cable and a female USB port| Around 11 USD|
@@ -45,6 +53,9 @@ Through this rube-goldberg finaggling of connections, you can play Steel Battali
 ## Which Board Should I Choose?
 
 
-
+## Firmware for the board
 For instructions on ogx360_t4 go here
 For instructions on OGX-Mini-2026 go here
+
+
+## Controller Pieces
