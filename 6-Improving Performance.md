@@ -1,8 +1,16 @@
 # 6. Improving Performance
 
-Improving Performance and Visuals on Xbox
 
-HDMI Adapter
+# Improving Performance on Xbox
+## Xbox Modding
+Xbox Modding is required to implement visual performance ungrades.
+As said in the intro, I am not going to be detailing Xbox Mods as there are many tutorials.
+There is softmodding, hardmodding, and TSOP modding. All will give a custom dashboard capable of running Steel Battalion.
+Improving Performance and Visuals on Xbox.
+
+I recommend several of the tutorials listed beloew
+
+## HDMI Adapter
 The original Xbox can actually output HDMI signals, it just requires an adapter and changing settings in the original dashboard.
    
 There are many different style of these adapters sold. Do not confuse these with composite to HDMI adapters.
