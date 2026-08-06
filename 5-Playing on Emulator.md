@@ -110,6 +110,11 @@ sudo apt-get install python3-sphinx-rtd-theme
 
 
 
+#if needing to remove some dependencies
+
+pip uninstall sphinx --break-system-packages
+pip uninstall sphinx-rtd-theme --break-system-packages
+
 
 
 
