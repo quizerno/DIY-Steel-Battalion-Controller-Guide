@@ -20,7 +20,7 @@ This guide was originally written in Microsoft Word, and then converted to MD fo
 # Table of Contents
 Introduction - Readme
 1. [FAQ](https://github.com/quizerno/DIY-Steel-Battalion-Controller-Guide/blob/main/1-FAQ.md)
-2. [The Controller Inputs](https://github.com/quizerno/DIY-Steel-Battalion-Controller-Guide/blob/main/6-Improving%20Performance.md)	 
+2. [The Controller Inputs](https://github.com/quizerno/Steel-Battalion-Entry-Guide/blob/main/2-The%20Controller%20Inputs.md)	 
     * LEFT BLOCK	 
     * MIDDLE BLOCK	 
     * RIGHT BLOCK	 
