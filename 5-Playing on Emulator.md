@@ -104,11 +104,7 @@ sudo apt-get install libepoxy-dev
 
 sudo apt-get install python3-sphinx
 
-sudo apt-get install sphinx-rtd-theme-common
-
-
-
-
+sudo apt-get install python3-sphinx-rtd-theme
 
 
 
