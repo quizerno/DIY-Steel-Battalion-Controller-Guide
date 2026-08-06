@@ -70,3 +70,46 @@ https://cxbx-reloaded.co.uk/
 https://www.youtube.com/watch?v=YYqngubf_co
 https://www.youtube.com/watch?v=JYqUdGF6bBc
 https://www.youtube.com/watch?v=hatA9M7ftlE
+
+
+
+
+
+
+
+# PenguinBox
+
+Dependencies that might have to be installed
+```
+
+pip install -U sphinx --break-system-packages
+
+pip install sphinx-rtd-theme --break-system-package
+
+sudo apt-get install libglib2.0-dev
+
+sudo apt-get install build-essential git make pkg-config cmake ninja-build gnome-desktop-testing libasound2-dev libpulse-dev libaudio-dev libfribidi-dev libjack-dev libsndio-dev libx11-dev libxext-dev libxrandr-dev libxcursor-dev libxfixes-dev libxi-dev libxss-dev libxtst-dev libxkbcommon-dev libdrm-dev libgbm-dev libgl1-mesa-dev libgles2-mesa-dev libegl1-mesa-dev libdbus-1-dev libibus-1.0-dev libudev-dev libthai-dev libusb-1.0-0-dev
+
+ sudo apt-get install build-essential git make libpipewire-0.3-dev libwayland-dev libdecor-0-dev liburing-dev
+
+sudo apt-get install libepoxy-dev
+ sudo add-apt-repository ppa:kisak/kisak-mesa && sudo dpkg --add-architecture i386 && sudo apt update && sudo apt upgrade && sudo apt install libgl1-mesa-dri:i386 mesa-vulkan-drivers mesa-vulkan-drivers:i386
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
