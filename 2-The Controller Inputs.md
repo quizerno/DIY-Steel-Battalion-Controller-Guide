@@ -43,25 +43,9 @@ A more detailed explanation of the controls can be found on the fan wiki, [here]
 
 The middle block is unique in that some the functions are different between the original game and Line of Contact.
 
-### >FREQUENCY DIAL
-A Rotary Dial with 5 positions, each corresponding to a channel.
-
-**Original:** Used to change radio signal for communication with HQ or squadmates 
-|Channel 1 |Channel 2 |Channel 3|Channel 4|Channel 5|
-|---|---|---|---|---|
-|HQ (Argus)|Supply (Wagon Master)|Ally 1|Ally 2|Ally 3|
-
-**Line of Contact:** Used to change radio signal for communication with HQ or squadmates 
-|Channel 1 |Channel 2 |Channel 3|Channel 4|Channel 5|
-|---|---|---|---|---|
-|Leader|Ally 1|Ally 2|Ally 3|Ally 4|
-
-**Alternative Parts:** Joystick throttle, Scroll Wheel Encoder, or can be substituted with 2 push buttons to make it a digital tuner.
-
-
 ### >COMMUNICATION BUTTONS:
 
-Consists of 5 push buttons in a row
+Consists of 5 push buttons in a 1x5 row
 
 **Original**: These sometimes depend on the mission but are generally:
 |Com 1 |Com 2 |Com 3|Com 4|Com 5|
@@ -76,6 +60,21 @@ Consists of 5 push buttons in a row
 |---|---|---|---|---|
 
 
+
+### >TUNER DIAL
+A Rotary Dial with 5 positions, each corresponding to a channel.
+
+**Original:** Used to change radio signal for communication with HQ or squadmates 
+|Channel 1 |Channel 2 |Channel 3|Channel 4|Channel 5|
+|---|---|---|---|---|
+|HQ (Argus)|Supply (Wagon Master)|Ally 1|Ally 2|Ally 3|
+
+**Line of Contact:** Used to change radio signal for communication with HQ or squadmates 
+|Channel 1 |Channel 2 |Channel 3|Channel 4|Channel 5|
+|---|---|---|---|---|
+|Leader|Ally 1|Ally 2|Ally 3|Ally 4|
+
+**Alternative Parts:** Joystick throttle, Scroll Wheel Encoder, or can be substituted with 2 push buttons to make it a digital tuner.
 
 ### >FUNCTION BUTTONS:  
 
