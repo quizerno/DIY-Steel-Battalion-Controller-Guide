@@ -11,10 +11,15 @@ But if you want to play on Xbox or are curious about tinkering, read on.
 - Basic soldering: you will need to solder 4 points
 - Patience: this can be difficult
 
-# Xbox Modding
 
-As said in the intro, I am not going to be detailing Xbox Mods as there are many tutorials.
-There is softmodding, hardmodding, and TSOP modding. All will give a custom dashboard capable of running Steel Battalion.
+
+## How this works
+
+<img width="1152" height="360" alt="image" src="https://github.com/user-attachments/assets/44a67dc0-539d-45d2-8aa5-a849d6a9ef41" />
+
+The inputs are read from your controller into your adapter board which outputs Steel Battalion inputs to the Xbox Controller 
+Through this rube-goldberg finaggling of connections, you can play Steel Battalion with a control set-up of your choosing.
+
 
 # Hardware
 
@@ -43,12 +48,6 @@ To connect the adapter board to the Xbox, you will need a cable that allows you 
 |Micro USB or USB-C Cable||Everywhere|1-15 USD|Needed to connect the platform to the computer, as stated above the Teeny 4.1 uses Micro USB, RP2040s have Micro USB and USB-C options
 
 
-## How this works
-
-<img width="1152" height="360" alt="image" src="https://github.com/user-attachments/assets/44a67dc0-539d-45d2-8aa5-a849d6a9ef41" />
-
-The inputs are read from your controller into your adapter board which outputs Steel Battalion inputs to the Xbox Controller 
-Through this rube-goldberg finaggling of connections, you can play Steel Battalion with a control set-up of your choosing.
 
 ## Which Board Should I Choose?
 
