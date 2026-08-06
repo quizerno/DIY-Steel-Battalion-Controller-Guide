@@ -17,9 +17,8 @@ But if you want to play on Xbox or are curious about tinkering, read on.
 
 <img width="1152" height="360" alt="image" src="https://github.com/user-attachments/assets/44a67dc0-539d-45d2-8aa5-a849d6a9ef41" />
 
-The inputs are read from your controller into your adapter board which outputs Steel Battalion inputs to the Xbox Controller 
-Through this rube-goldberg finaggling of connections, you can play Steel Battalion with a control set-up of your choosing.
-
+The inputs are read from your **custom controller** into your **adapter board** which outputs Steel Battalion inputs to the Xbox Controller 
+Through this rube-goldberg finaggling of connections, you can play Steel Battalion with a control set-up of your choosing. Note that Xbox modding is not required for the controller to work.
 
 # Hardware
 
@@ -28,6 +27,7 @@ Before building the controller proper we need hardware that emulates the origina
 For the sake of ease, we will call this an Adapter Board.
 
 To connect the adapter board to the Xbox, you will need a cable that allows you to connect USB devices to the Xbox.  If you have done softmodding or hard modding before, you will likely have some experience with this.
+**Xbox USB Bridge Cable**
 |Hardware|Usage|Where to Buy|Price|
 |---|---|---|---|
 |USB-Female to Xbox Cable|Allows interfacing with the Original Xbox, also used for softmodding| [Ebay](https://www.ebay.com/itm/127869049454) among other places, you can also build one if you have a spare Xbox breakaway cable and a female USB port| Around 11 USD|
@@ -38,8 +38,7 @@ To connect the adapter board to the Xbox, you will need a cable that allows you 
   - If the platform uses Micro USB you can use an Xbox to Micro USB Cable.
 
 
-## Hardware you will need to decide on
-
+**Adapter Boards**
 |Hardware|Relevant Software|Where to Buy|Price|Notes|
 |---|---|---|---|---|
 |Teensy 4.1|[ogx360_t4](https://github.com/Ryzee119/ogx360_t4/)|Ebay, Sparkfun | 27-30 USD| Uses Micro USB, extremely powerful development platform. 
