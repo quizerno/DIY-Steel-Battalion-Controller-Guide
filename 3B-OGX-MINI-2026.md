@@ -46,6 +46,8 @@ In [CONTROLLER OPTION], substitute which controller you wish to use. If you do n
 FIXED_DRIVERS=(
   "XINPUT:Xbox 360 (XInput)"
   "XBOXOG:Original Xbox (Gamepad)"
+  "XBOXOG_SB:Steel Battalion Controller";
+  "XBOXOG_XR:Original Xbox (Remote)";
   "PS3:PlayStation 3"
   "SWITCH:Nintendo Switch Pro"
   "WIIU:Wii U (GameCube Adapter)"
@@ -63,10 +65,10 @@ FIXED_DRIVERS=(
 
 The last field, [Debug or Release], put "Release"
 
-In my case I wanted to build for the Pico, Fixed Xbox Driver, in release mode.
+In my case I wanted to build for the Pico, Fixed for Steel Battalion Controller Driver, in release mode.
 
 ```
-cmake -DOGXM_BOARD=PI_PICO -DOGXM_FIXED_DRIVER=XBOXOG -DCMAKE_BUILD_TYPE=Release ..
+cmake -DOGXM_BOARD=PI_PICO -DOGXM_FIXED_DRIVER=XBOXOG_SB -DCMAKE_BUILD_TYPE=Release ..
 ```
 Press then type 
 ```
