@@ -26,12 +26,18 @@ Introduction - Readme
     * RIGHT BLOCK	 
     * PEDAL BLOCK	 
 3. [Playing on Xbox Without An Original Controller](https://github.com/quizerno/DIY-Steel-Battalion-Controller-Guide/blob/main/3-Playing%20on%20Xbox%20Without%20An%20Original%20Controller.md)	 
-    * Hardware
-    * [3A. ogx360_t4](https://github.com/quizerno/DIY-Steel-Battalion-Controller-Guide/blob/main/3A-ogx360_t4.md)	  
-       * Using a Keyboard and Mouse	  
-       * Using a HOTAS Joystick	  
-       * Full Custom Controller	  
-    * 3B. [OGX-MINI-2026](https://github.com/quizerno/Steel-Battalion-Entry-Guide/blob/main/3B-OGX-MINI-2026.md)	  
+    * Adapter Hardware
+    * 3A. [ogx360_t4](https://github.com/quizerno/DIY-Steel-Battalion-Controller-Guide/blob/main/3A-ogx360_t4.md)	  
+       * Keyboard and Mouse	  
+       * HOTAS Flightstick  
+    * 3B. [OGX-MINI-2026](https://github.com/quizerno/Steel-Battalion-Entry-Guide/blob/main/3B-OGX-MINI-2026.md)
+       * Xbox 360 Chatpad
+       * WIP
+    * 3C.Controller Hardware
+       * Combination KB+Joystick 
+       * Full Custom Joystick
+      
+   
 4. [Building The Pedals](https://github.com/quizerno/DIY-Steel-Battalion-Controller-Guide/blob/main/4-Building%20The%20Pedals.md)	  
     * The Pedals in the Original Controller and What They Do	  
     * Options for Pedals	  
