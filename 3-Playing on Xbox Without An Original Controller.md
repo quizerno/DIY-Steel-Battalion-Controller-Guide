@@ -7,7 +7,7 @@ But if you want to play on Xbox or are curious about tinkering, read on.
 **Skills you need**
 - Knowledge of programming: Coding is not strictly necessary unless you want to do more complex control options.
 - Mild understanding of linux commands
-- Basic soldering: you will need to solder 4 points
+- Basic soldering: you will need to solder 4 points. If you're planning on building a controller from scratch you will be need to solder a lot.
 - Patience: this can be difficult
 
 
@@ -38,20 +38,35 @@ To furst connect the adapter board to the Xbox, you will need a cable that allow
   - If the hardware uses Micro USB you can use an Xbox to Micro USB Cable.
 
 
-**Adapter Boards**
+
+
+**Adapter Boards Hardwatre**
+
 |Hardware|Relevant Software|Where to Buy|Price|Notes|
 |---|---|---|---|---|
-|Teensy 4.1|[ogx360_t4](https://github.com/Ryzee119/ogx360_t4/)|Ebay, Sparkfun | 27-30 USD| Uses Micro USB, extremely powerful development platform. 
+|Teensy 4.1|[ogx360_t4](https://github.com/Ryzee119/ogx360_t4/)|Ebay, Sparkfun | 27-30 USD| Uses Micro USB, extremely powerful development platform, has mSD card slot. 
 |RP2040|[OGX-Mini-2026](https://github.com/MegaCadeDev/OGX-Mini-2026)|Ebay, Sparkfun, Adafruit| 4-30 USD|Many Options including Pi Pico, Pi Pico 2, Pi Pico W, Pi Pico 2 W, RP2354, Pico/ESP32
 |USB Host Cable (Female USB A)||Ebay, Sparkfun or other online electronics stores| 3-8 USD| Needed to take in the Custom Controller inputs. Some of the RP2040 boards (such as the Adafruit Feather) come with a USB Host built in and therefore do not require this cable
 |Micro USB/USB-C to USB-A Cable||Everywhere|1-15 USD|Needed to connect the platform to the computer, as stated above the Teeny 4.1 uses Micro USB, RP2040s have Micro USB and USB-C options
 
-
-
 **Which Board Should I Choose?**
-The Teensy 4.1, while expensive, is pretty easy to configure. The teensy is also capable of adapting the 
+The Teensy 4.1, while expensive, is pretty easy to configure. 
+The RP2040 boards are cheaper, but use more complex libraries and so might be overwhelming for newcomers. 
 
-The RP2040 boards are cheaper,
+
+Here is where the soldering comes in.
+
+### Soldering the Host Cable###
+
+### Teensy 4.1 ### 
+<img width="805" height="737" alt="usb copy" src="https://github.com/user-attachments/assets/89d8b624-9c0c-4c28-8122-38923cfed306" />
+
+The wiring on the teensy is pretty straight forward. Solder 5 pins to the USB header on the board and attach the cable, **MAKE ABSOLUTELY SURE YOUR ORIENATION IS CORRECT** 
+
+### RP2400  ### 
+This is slightly trickier because the pins are not in a row. See the [OGX-Mini-2026 for wiring diagrams](https://github.com/MegaCadeDev/OGX-Mini-2026/tree/master/hardware).
+
+https://www.pjrc.com/store/cable_usb_host_t36.html
 
 ## Firmware for the board
 For instructions on ogx360_t4 go here
