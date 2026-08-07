@@ -25,16 +25,17 @@ Note that Xbox modding is not required for the controller to work.
 Before building the controller proper we need hardware that emulates the original controller's signals.
 For the sake of ease, we will call this an Adapter Board.
 
-To connect the adapter board to the Xbox, you will need a cable that allows you to connect USB devices to the Xbox.  If you have done softmodding or hard modding before, you will likely have some experience with this.
+To furst connect the adapter board to the Xbox, you will need a cable that allows you to connect USB devices to the Xbox.  If you have done softmodding or hard modding before, you will likely have some experience with this.
+
 **Xbox USB Bridge Cable**
 |Hardware|Usage|Where to Buy|Price|
 |---|---|---|---|
 |USB-Female to Xbox Cable|Allows interfacing with the Original Xbox, also used for softmodding| [Ebay](https://www.ebay.com/itm/127869049454) among other places, you can also build one if you have a spare Xbox breakaway cable and a female USB port| Around 11 USD|
 
 **Notes:**
-- In the next section you will choose a platform for the adapter board
-  - If the platform uses USB-C you can use an Xbox to USB-C Cable.
-  - If the platform uses Micro USB you can use an Xbox to Micro USB Cable.
+- In the next section you will choose hardware for the adapter board
+  - If the hardware uses USB-C you can use an Xbox to USB-C Cable.
+  - If the hardware uses Micro USB you can use an Xbox to Micro USB Cable.
 
 
 **Adapter Boards**
@@ -43,7 +44,7 @@ To connect the adapter board to the Xbox, you will need a cable that allows you 
 |Teensy 4.1|[ogx360_t4](https://github.com/Ryzee119/ogx360_t4/)|Ebay, Sparkfun | 27-30 USD| Uses Micro USB, extremely powerful development platform. 
 |RP2040|[OGX-Mini-2026](https://github.com/MegaCadeDev/OGX-Mini-2026)|Ebay, Sparkfun, Adafruit| 4-30 USD|Many Options including Pi Pico, Pi Pico 2, Pi Pico W, Pi Pico 2 W, RP2354, Pico/ESP32
 |USB Host Cable (Female USB A)||Ebay, Sparkfun or other online electronics stores| 3-8 USD| Needed to take in the Custom Controller inputs. Some of the RP2040 boards (such as the Adafruit Feather) come with a USB Host built in and therefore do not require this cable
-|Micro USB or USB-C Cable||Everywhere|1-15 USD|Needed to connect the platform to the computer, as stated above the Teeny 4.1 uses Micro USB, RP2040s have Micro USB and USB-C options
+|Micro USB/USB-C to USB-A Cable||Everywhere|1-15 USD|Needed to connect the platform to the computer, as stated above the Teeny 4.1 uses Micro USB, RP2040s have Micro USB and USB-C options
 
 
 
